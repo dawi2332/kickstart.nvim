@@ -4,6 +4,7 @@ return {
   priority = 1000,
   lazy = false,
   config = function()
-    require("onedark").load()
-  end
+    require('onedark').load()
+  end,
+  enabled = true,
 }

@@ -1,10 +1,7 @@
-local opt = vim.opt
-
-opt.tabstop = 2
-opt.shiftwidth = 2
-opt.expandtab = true
-
-opt.laststatus = 3
-opt.shortmess = "filnxtToOFWcsF"
+vim.opt.tabstop = 2
+vim.opt.shiftwidth = 2
+vim.opt.expandtab = true
+vim.opt.laststatus = 3
+vim.opt.shortmess = 'filnxtToOFWcsF'
 
 return {}
